@@ -2,6 +2,9 @@
 
 🌱 I’m currently learning computer engineering
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;&center=true&width=500&height=50"></a>
+</p>
 <!--
 **moondamon/moondamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

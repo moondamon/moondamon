@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;&center=true&width=500&height=50"></a>
 </p>
-
 EXPERIENCES
   - PARTICIPANT at MOS Olympic Thailand Competition. l 2018
   - DEVELOP GAME with C++ Language (SFML). l 2019
@@ -13,7 +12,7 @@ EXPERIENCES
   - IN ASSOCIATION with Coolkid company. video editor
   - DEVELOP WEB APPLICATION about incidents map. l 2021
   - DEVELOP WEB APPLICATION with MERN Stack. About community of figure. l 2021
-  - IN ASSOCIATION of HCRL lab flutter training. (TRAINNER) l 2021
+  - IN ASSOCIATION of HCRL lab flutter training. (TRAINNER) l 2021 <a href="https://github.com/HCRL-58" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 
 

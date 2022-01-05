@@ -2,6 +2,9 @@
 
 🌱 I’m currently learning computer engineering
 
+EXPERIENCES
+![image](https://user-images.githubusercontent.com/67417910/148172305-f30c2eee-0ba0-4bd5-8ab7-e76e78bfafa1.png)
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;&center=true&width=500&height=50"></a>
 </p>

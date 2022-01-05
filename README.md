@@ -1,13 +1,22 @@
-### Hi there 👋
-
-🌱 I’m currently learning computer engineering
-
-EXPERIENCES
-![image](https://user-images.githubusercontent.com/67417910/148172305-f30c2eee-0ba0-4bd5-8ab7-e76e78bfafa1.png)
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nichakan Sukhumjitpitayotai (Mook)</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;&center=true&width=500&height=50"></a>
 </p>
+
+EXPERIENCES
+  - PARTICIPANT at MOS Olympic Thailand Competition. l 2018
+  - DEVELOP GAME with C++ Language (SFML). l 2019
+  - ROBOT CAR using by Arduino. l 2020
+  - DEVELOP GAME by FPGA in digital subject. l 2020
+  - DEVELOP WEB APPLICATION with Django. About booking hotel by data structure l 2021
+  - PARTICIPANT at Sebelas Maret International IoT Challenge. Design IOT for Corona Virus by M5Stack. l 2021
+  - IN ASSOCIATION with Coolkid company. video editor
+  - DEVELOP WEB APPLICATION about incidents map. l 2021
+  - DEVELOP WEB APPLICATION with MERN Stack. About community of figure. l 2021
+  - IN ASSOCIATION of HCRL lab flutter training. (TRAINNER) l 2021
+
+
+
 <!--
 **moondamon/moondamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
